@@ -5,5 +5,5 @@ export const HomepageContainer = styled.div`
     flex-direction: column;
     align-items: center;
     width: 100%;
-    background-color: blue;
+    background-color: red;
 `;
